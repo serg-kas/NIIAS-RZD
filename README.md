@@ -6,3 +6,6 @@
 
 
 environment.yml   # conda env create -f environment.yml
+
+Подготовка данных.ipynb
+img_for_test.csv
