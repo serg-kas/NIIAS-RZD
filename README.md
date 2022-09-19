@@ -15,4 +15,6 @@
 5. Предикт готовой моделью
 6. Презентация
 
+![Screenshot](demo.png)
+
 https://github.com/serg-kas/NIIAS-RZD/blob/12a4896c1482415341928a21107ec18addd1f54a/demo.png
