@@ -14,3 +14,5 @@
 4. Работа с моделью Unet
 5. Предикт готовой моделью
 6. Презентация
+
+https://github.com/serg-kas/NIIAS-RZD/blob/12a4896c1482415341928a21107ec18addd1f54a/demo.png
